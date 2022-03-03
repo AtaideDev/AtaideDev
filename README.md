@@ -10,9 +10,10 @@
 </div>
  
  <br>
+  <div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
-  ### Pra contato me segue nas redes abaixo!
+  </div>
+  ### Pra contato seguir nas redes abaixo!
  
 <div> 
   <a href="https://instagram.com/_arthurataide_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
