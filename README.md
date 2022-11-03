@@ -1,7 +1,7 @@
-<div style="display: inline-block" "position: relative">
+<div style="display: inline-block">
   <a href="https://github.com/AtaideDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtaideDev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaideDev&layout=compact&langs_count=6&theme=merko"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=AtaideDev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaideDev&layout=compact&langs_count=6&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="32" width="82" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
