@@ -9,7 +9,7 @@
   <img align="center" alt="CSS" height="32" width="85" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="WINDOWS" height="32" width="115" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
- 
+<br>
  
   ### Pra contato seguir nas redes abaixo!
  
