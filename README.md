@@ -1,7 +1,6 @@
 <div style="display: inline-block">
   <a href="https://github.com/AtaideDev">
     <img height="160rem" src="https://github-readme-stats-ataidedev.vercel.app/api?username=AtaideDev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <a href="https://github.com/AtaideDev">
     <img height="160rem" src="https://github-readme-stats-ataidedev.vercel.app/api/top-langs/?username=AtaideDev&layout=compact&langs_count=6&theme=merko"/>
 </div>
 <div style="display: inline_block"><br>
