@@ -23,3 +23,6 @@
    
   ![Snake animation](https://github.com/Ataidedev/AtaideDev/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+  
+  
